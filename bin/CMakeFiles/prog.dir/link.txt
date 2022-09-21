@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/prog.dir/ControllerPyramid.cpp.o CMakeFiles/prog.dir/ViewPyramid.cpp.o CMakeFiles/prog.dir/ModelPyramid.cpp.o CMakeFiles/prog.dir/Node.cpp.o CMakeFiles/prog.dir/Card.cpp.o CMakeFiles/prog.dir/Deck.cpp.o CMakeFiles/prog.dir/AnimationWrapper.cpp.o  -o prog  -lsfml-graphics -lsfml-window -lsfml-system 
